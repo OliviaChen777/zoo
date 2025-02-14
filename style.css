@@ -1,0 +1,13 @@
+h1{
+    text-align: center;
+}
+img{
+    height: 400px;
+}
+body{
+    background-color: antiquewhite; /*set backgroud color */
+}
+p{
+    margin-top: 20px; /* add 20px brfore p */
+    text-align:left;
+}
